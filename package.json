@@ -1,0 +1,23 @@
+{
+  "name": "sharp-image-manipulation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulieScanlon/sharp-image-manipulation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulieScanlon/sharp-image-manipulation/issues"
+  },
+  "homepage": "https://github.com/PaulieScanlon/sharp-image-manipulation#readme",
+  "dependencies": {
+    "sharp": "^0.31.1"
+  }
+}
